@@ -1,5 +1,5 @@
 -- ====== PENGATURAN (beda tiap akun) ======
-local ALT_NAME = "NamaAkunKedua"   -- username akun LAINNYA
+local ALT_NAME = "twoastw"   -- username akun LAINNYA
 local HOP_ON_ALT = true            -- true di salah satu akun saja (lihat catatan)
 -- =========================================
 
